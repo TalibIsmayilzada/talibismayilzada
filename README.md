@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talib Ismayilzada</h1>
-<h3 align="center">A passionate android developer from Azerbaijan</h3>
+<h1 align="center">Hey 👋, I'm Talib Ismayilzada</h1>
+<h3 align="center">A passionate Android Developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on [Grid Dynamics](https://www.griddynamics.com/)
 
